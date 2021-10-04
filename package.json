@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "aula de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinicarlosss/Servidor_para_recuperar_informa-es_de_hardware.git"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "aula",
+    "live"
+  ],
+  "author": "CarlosVinícius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinicarlosss/Servidor_para_recuperar_informa-es_de_hardware/issues"
+  },
+  "homepage": "https://github.com/vinicarlosss/Servidor_para_recuperar_informa-es_de_hardware#readme",
+  "dependencies": {
+    "http-server": "^13.0.2"
+  }
+}
